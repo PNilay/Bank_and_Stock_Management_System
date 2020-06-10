@@ -10,5 +10,9 @@ The program can be run by using following commands in terminal:
 make  
 .\Bank_Account  
 ```
+All the build files of the prgram can nbe removed by running following command in terminal:
+```
+make clean
+```
 
 
